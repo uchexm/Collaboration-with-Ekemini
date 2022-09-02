@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    color: blue;
+    max-with: 100%;
+  }
+  h1{
+    font-size: 40px;
+    color: red;
+  }
+  img{
+    display: block;
+  
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+  }
